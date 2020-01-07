@@ -1,13 +1,14 @@
 PHP-SBCS
 ========
 
-Fork of <a href="https://codeclimate.com/github/ganbarli/PHP-SBCS">PHP-SBCS</a> and added Paypal checkout.
+Fork of <a href="https://codeclimate.com/github/ganbarli/PHP-SBCS">PHP-SBCS</a> with a lot of changes, split up into two pages and added Paypal checkout.
 
 Version History
 ========
 
 **Version for Attys: www.attys.tech**
-- Added paypal checkout with the new REST API
+- Added paypal checkout with the new REST API and confirmation e-mail
+- Updated to newest bootstrap
 
 
 **v.1.6.2 / 22.10.2017**
@@ -53,25 +54,6 @@ Version History
 
 - Initial Commit
 
-What's included
-========
-
-Within the download you'll find only one file : index.php
-
-Bugs and feature requests
-========
-
-Have a bug or a feature request? <a href="https://github.com/ganbarli/PHP-SBCS/issues/new">Please open a new issue.</a>
-
-Browser Support
-========
-
-- IE 9+
-- Firefox (latest)
-- Chrome (latest)
-- Safari (latest)
-- Opera (latest)
-
 License
 ========
 
@@ -82,4 +64,3 @@ Credits
 - <a href="https://codeclimate.com/github/ganbarli/PHP-SBCS">PHP-SBCS</a>      
 - <a href="https://github.com/twbs/bootstrap">Bootstrap</a> HTML, CSS, and JavaScript framework
 - <a href="https://github.com/jquery/jquery">Jquery</a> JavaScript Library
-- <a href="PLACEHOLD.IT">Placehold.it</a> Image placeholder service
