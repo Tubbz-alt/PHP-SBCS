@@ -6,7 +6,8 @@ Fork of <a href="https://codeclimate.com/github/ganbarli/PHP-SBCS">PHP-SBCS</a> 
 Version History
 ========
 
-**Version for Attys: www.attys.tech
+**Version for Attys: www.attys.tech**
+- Added paypal checkout with the new REST API
 
 
 **v.1.6.2 / 22.10.2017**
